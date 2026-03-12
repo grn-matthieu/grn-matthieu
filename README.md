@@ -1,4 +1,4 @@
-- 👋 Student at ENSAE
+- 👋 Carbon Footprint Statistics Project Lead at INSEE
 
 <!---
 grn-matthieu/grn-matthieu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
